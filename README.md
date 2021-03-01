@@ -1,11 +1,11 @@
 # Hi! 👋
 ---
-## I'm Ruskin.
+I'm Ruskin.
 ---
-## 💬 Nurse/IT Student.
-## 💻 Full-Stack Development.
-## 🔎 UX/UI Design.
-## 🎯 Work-In-Progress.
+- 💬 Nurse/IT Student.
+- 💻 Full-Stack Development.
+- 🔎 UX/UI Design.
+- 🎯 Work-In-Progress.
 ---
 <!--
 **ruskollin/ruskollin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
