@@ -1,7 +1,10 @@
+ <img align="right" width="320px" style="position:absolute;z-index:0" alt="GIF" src="https://github.com/ruskollin/ruskollin/blob/master/giphy.gif" />
+ 
 # Hi! 👋
 ---
 I'm Ruskin.
 ---
+
 - 💬 Nurse/IT Student.
 - 💻 Full-Stack Development.
 - 🔎 UX/UI Design.
