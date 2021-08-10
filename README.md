@@ -5,10 +5,10 @@
 I'm Ruskin.
 ---
 
-- 💬 Nurse/IT Student.
+- 💬 Software Developer/ Nurse.
 - 💻 Full-Stack Development.
 - 🔎 UX/UI Design.
-- 🎯 In-Progress.
+- 🎯 Work In-Progress.
 ---
 <!--
 **ruskollin/ruskollin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
