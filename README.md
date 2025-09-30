@@ -1,25 +1,19 @@
- <img align="right" width="320px" style="position:absolute;z-index:0" alt="GIF" src="https://github.com/ruskollin/ruskollin/blob/master/giphy.gif" />
- 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 # Hi! 👋
----
 I'm Ruskin.
----
 
 - 💬 Software Developer/ Nurse.
 - 🔎 UX/UI Design.
 - 🎯 Work In-Progress.
----
-<!--
-**ruskollin/ruskollin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</td>
+<td width="35%" valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/ruskollin/ruskollin/blob/master/giphy.gif" width="320px" alt="GIF"/>
+
+</td>
+</tr>
+</table>
