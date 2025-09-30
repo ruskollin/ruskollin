@@ -6,7 +6,6 @@ I'm Ruskin.
 ---
 
 - 💬 Software Developer/ Nurse.
-- 💻 Full-Stack Development.
 - 🔎 UX/UI Design.
 - 🎯 Work In-Progress.
 ---
